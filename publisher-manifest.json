@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b9dfcfac2e1c7ea4985c1f01",
+  "owner": "cwrkaphrp",
+  "repo": "page-70ca5ccac56f235f5677b604",
+  "title": "叉烧云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "70ca5ccac56f235f5677b604",
+      "a": "叉烧云",
+      "b": "稳定全球clash加速器",
+      "entity": "叉烧云",
+      "brand": "叉烧云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "759e884e8b30adef2352439711fcf25f3bd52e2244d8e0c54889c6d2cf0fe469",
+      "content": {
+        "primary_entity": "叉烧云",
+        "keyword1": "叉烧云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面端与移动端分别提供对应配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "在叉烧云选择适合的套餐，打开客户端订阅地址即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐连接更顺畅",
+          "AI_DESCRIPTION": "，叉烧云提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35、¥85，年付为 ¥150、¥350、¥850。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速；团队版每月 1000GB、支持 20 台设备，含 VIP 专属高带宽节点。订阅后可导入客户端配置，按设备数选择对应套餐。",
+          "AI_FEATURES_INTRO": "套餐档位清晰，按设备数量与流量需求选择。",
+          "AI_FEATURES_TITLE": "订阅与配置特点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台设备、团队版 20 台设备，家庭与小组各有对应选择。",
+          "AI_FEATURE_TEXT_2": "按年付比月付节省两个月费用，适合长期使用的设备固定用户。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供企业定制路由选项。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "加速线路分层",
+          "AI_GUIDE_INTRO": "选套餐、查设备适配、导入订阅三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "叉烧云提供多档订阅与客户端配置，基础版、旗舰版、团队版分别覆盖 3 台、5 台、20 台设备。月付 ¥15 起，年付更划算，订阅后导入客户端即可连接使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与客户端配置",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版 5 台设备兼顾流媒体与游戏，团队版 20 台设备适合小组共享。年付均为十个月价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备台数与线路类型，确认是否覆盖流媒体或游戏需求。",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅地址，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "叉烧云订阅快速上手",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "叉烧云套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "主要差别在每月流量、设备在线数量和线路类型。基础版100GB/3台，旗舰版300GB/5台并含专线优化，团队版1000GB/20台。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时使用多个套餐吗？",
+          "AI_FAQ_ANSWER_2": "通常一个订阅对应一个账号，同一账号的在线设备数以所购套餐上限为准，不叠加多个套餐的额度。",
+          "AI_FAQ_QUESTION_3": "年付和月付如何选择？",
+          "AI_FAQ_ANSWER_3": "月付适合短期试用，年付基础版150元、旗舰版350元、团队版850元，长期使用年付更经济。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址并更新，即可拉取节点信息。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "套餐流量用尽后可能无法继续使用，建议根据实际用量选择更高档位，或等待下个计费周期重置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tgceqm.cn",
+    "host": "tgceqm.cn"
+  },
+  "file_hashes": {
+    "index.html": "5150b02cdb39bf441d7ebdc0b5823b4766167a01f507a1d75841a1caaf00cc83",
+    "sitemap.xml": "0e6f6b4aa4612793f9499e53f70135f8e1cdc5c1714b58bada180089591b80ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "02262f6d9de3bee66ffd9c3dfd91e6602e08d3b6e518e3a28962a8d284147cae",
+    "robots.txt": "fa5ea86d0361bc443e2eb38399ae3a7efc3b1a7d71073373a2c0f4a0a825d826",
+    "202790c2bceb94ff374fec6496e68633.txt": "db706366b8a672a4c53fd08651e8624109e372ce1ce16f7d9669679224c16b51"
+  },
+  "revision": "b6e6fb0d30b85732c4c5a2dbb5b29f5363b7a9c2dc1bc931a14e68e917e95444"
+}
